@@ -1,0 +1,30 @@
+{
+  "menu": [
+    { "id": 1, "name": "home", "link": "https://google.com" },
+    { "id": 2, "name": "about", "link": "https://google.com" },
+    { "id": 3, "name": "contact", "link": "https://google.com" },
+    { "id": 4, "name": "gallery", "link": "https://google.com" }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "image": "https://static.cdn.asset.filimo.com/ct/hu3kx_desktop_1_v1.jpeg?width=1920&quality=85&secret=zorNn_7456f5-CZUlHnS5g",
+      "alt": "image-1"
+    },
+    {
+      "id": 2,
+      "image": "https://static.cdn.asset.filimo.com/ct/6tdlb_desktop_1_v5.jpeg?width=1920&quality=85&secret=t8RGkFr6TjKyX-BcNmqFFA",
+      "alt": "image-2"
+    },
+    {
+      "id": 3,
+      "image": "https://static.cdn.asset.filimo.com/ct/hu3kx_desktop_1_v1.jpeg?width=1920&quality=85&secret=zorNn_7456f5-CZUlHnS5g",
+      "alt": "image-3"
+    },
+    {
+      "id": 4,
+      "image": "https://static.cdn.asset.filimo.com/ct/6tdlb_desktop_1_v5.jpeg?width=1920&quality=85&secret=t8RGkFr6TjKyX-BcNmqFFA",
+      "alt": "image-4"
+    }
+  ]
+}
