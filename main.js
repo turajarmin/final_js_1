@@ -1,11 +1,11 @@
-import Menu from "./Menu/Menu";
-import Products from "./Products/Products";
-import Slider from "./Slider/Slider";
+import Menu from "./public/js/Menu/Menu";
+import Products from "./public/js/Products/Products";
+import Slider from "./public/js/Slider/Slider";
 
 async function allData() {
   await Menu();
   await Slider();
-  await Products()
+  await Products();
   initSlider();
 }
 allData();
@@ -27,4 +27,3 @@ function initSlider() {
     },
   });
 }
-
